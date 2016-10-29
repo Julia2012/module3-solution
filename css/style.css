@@ -11,6 +11,7 @@ body {
 
 header .navbar {
   background-color:#B7DCFF;
+  border: none;
 }
 
 header .navbar .navbar-brand {
@@ -50,8 +51,9 @@ header .navbar .navbar-brand {
   header .navbar .navbar-toggle:focus .icon-bar{
     background-color: #fff;
   }
-  #bs-example-navbar-collapse-1 {
+  #bs-example-navbar-collapse-1.navbar-collapse {
     background-color:#fff;
+    padding:0;
   }
   .nav.navbar-nav {
     margin:0;
