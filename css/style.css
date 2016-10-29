@@ -50,5 +50,8 @@ header .navbar .navbar-brand {
   header .navbar .navbar-toggle:focus .icon-bar{
     background-color: #fff;
   }
+  #bs-example-navbar-collapse-1 {
+    background-color:#fff;
+  }
   
 }
