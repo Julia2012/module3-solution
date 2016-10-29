@@ -12,28 +12,14 @@ body {
   font-size: 1.75em
 }
 
-.bgcolor_red {
-  background-color: #ff0000;
-  color:#fff;
-}
-.bgcolor_blue {
-  background-color: #A3EEFF;
-}
-.bgcolor_green {
-  background-color: #A3FFF7;
-}
 
 
 .column {
   padding:0 15px 30px;
   float: left;
-}
-.column_content {
-  border: 1px solid black;
-  position:relative;
-  padding:30px 15px 15px;
   background-color: #eee;
 }
+
 
 /********** Desktop view **********/
 @media (min-width: 768px) {
