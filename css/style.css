@@ -37,7 +37,7 @@ body {
 
 /********** Desktop view **********/
 @media (min-width: 768px) {
-  #bs-example-navbar-collapse-1 {display:none;}
+  #bs-example-navbar-collapse-1.navbar-collapse.collapse {display:none!important;}
 }
 /********** Tablet view **********/
 @media (min-width: 768px) and (max-width: 991px) {
