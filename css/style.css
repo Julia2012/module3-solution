@@ -36,4 +36,10 @@ header .navbar .navbar-brand {
 }
 /********** Mobile view **********/
 @media (max-width: 767px) {
+  header .navbar .navbar-toggle {
+    border-color: #000;
+  }
+  header .navbar .navbar-toggle .icon-bar {
+    background-color: #000;
+}
 }
