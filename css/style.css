@@ -38,8 +38,14 @@ header .navbar .navbar-brand {
 @media (max-width: 767px) {
   header .navbar .navbar-toggle {
     border-color: #000;
+    background-color: #ffffff;
   }
   header .navbar .navbar-toggle .icon-bar {
     background-color: #000;
-}
+  }
+  header .navbar .navbar-toggle:focus {
+    border-color: #fff;
+    background-color: #000;
+  }
+  
 }
