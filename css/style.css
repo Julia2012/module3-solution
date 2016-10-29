@@ -8,8 +8,13 @@ body {
   line-height: 1.1;
   color:#000;
 }
+
+header .navbar {
+  background-color:#B7DCFF;
+}
+
 .navbar-brand {
-  font-size: 1.75em
+  font-size: 2em
 }
 
 .column {
