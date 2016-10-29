@@ -14,7 +14,8 @@ header .navbar {
 }
 
 .navbar-brand {
-  font-size: 2em
+  font-size: 2em;
+  color:#000;
 }
 
 .column {
