@@ -53,5 +53,11 @@ header .navbar .navbar-brand {
   #bs-example-navbar-collapse-1 {
     background-color:#fff;
   }
-  
+  .nav.navbar-nav {
+    margin:0;
+    border-width: 1px 0 0 0;
+  }
+  .nav.navbar-nav li {
+    border-bottom:1px solid #ccc;
+  }
 }
