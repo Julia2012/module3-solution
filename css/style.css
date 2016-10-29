@@ -47,5 +47,8 @@ header .navbar .navbar-brand {
     border-color: #fff;
     background-color: #000;
   }
+  header .navbar .navbar-toggle:focus .icon-bar{
+    background-color: #fff;
+  }
   
 }
